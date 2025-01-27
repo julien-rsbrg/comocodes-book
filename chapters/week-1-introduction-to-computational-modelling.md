@@ -19,9 +19,9 @@ In essence, computational modelling displays the same advantage while going furt
 Computational modelling has the advantage of expliciting the assumptions of the scientist behind it. On the other hand, computational simulation has a more holistic advantage in science by achieving four functional roles (see Drogoul et al. 2008):
 
 * Checking the internal coherence of a theory (ie doing the maths and raising absurdities);
-* Help expand models and theories by comparing them (like for thought experiments);
-* Substitute experimentation when one cannot carry experiment because it is unfeasible or unethical;
-* Help experimentation by narrowing down which is the next experiment to carry out or assisting in interpreting the results.
+* Helping expand models and theories by comparing them (like for thought experiments);
+* Substituting experimentation when one cannot carry experiment because it is unfeasible or unethical;
+* Helping experimentation by narrowing down which is the next experiment to carry out or assisting in interpreting the results.
 
 ### Computational Modelling Is a Different Type of Explanation
 
@@ -33,7 +33,9 @@ In functionalism, we try to understand the world as a system being in a given st
 * The algorithmic level: How does this thing X solve that problem? What are the kinds of computations that are done?
 * The implementation level: How is the algorithm implemented? On what is the algorithm implemented (e.g., biological neurons vs computers)? Is that implementation realistic, in the sense that biological neurons, computers, or whatever can achieve those computations?
 
-Let us give an example. You want to go from A (e.g., your apartment) to B (e.g., the campus) on the map because you want to find back C (e.g., the beautiful building you saw on the way). However, you do not remember anything about how you got there. That is the problem level. Now, you think about a way to solve that issue. Well, you could have taken the shortest path from A to B on that day you crossed C. That is the algorithmic level. Then, to find the shortest path you can either use Google Maps or Waze (before they merged). This is the implementation level. These are two different implementations because actually, Google Maps can tell you a path you can walk whereas Waze will focus on a path to drive by car. Now, these implementation options can reciprocally help you narrow down the problem by asking if you went from A to B by car or by foot. These exchanges between the levels are quite fruitful to progress in your inquiry and are an advantage of the computational modelling framework.
+Let us give an example. You want to go from A (e.g., your apartment) to B (e.g., the campus) on the map through the shortest path. However, you do not remember how to achieve this. That is the problem level. Now, you think about a way to solve that issue. There are several ways to find the shortest path: you can either start from A to go to B or start from B to go to A. The results may be the same but the process is different. Suppose you take a physical map and draw the line going from A to B since this is the fastest way to go. After some arrangements to avoid buildings, you will find a short path to travel. That is the algorithmic level. Finally, the tool you used to draw the line could be a pencil or a pen. That is the implementation level. (Obviously, you do not want to ruin your map so you would certainly use a pencil).
+
+Importantly, these levels can also interact. The implementation options can reciprocally help you choose the algorithm to use. The precedent example would not hold if you do not possess any physical map or pencil. The algorithm can also help clarify the problem. For instance, do you travel by foot, by car or by public transport? Do you really want the optimal shortest path or is an approximation enough?
 
 #### A Critic
 
