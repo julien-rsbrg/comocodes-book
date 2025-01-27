@@ -2,7 +2,7 @@
 bibliography: bibliography.bib
 ---
 
-# Week 1: Introduction to Computational Modelling
+# Introduction to Computational Modelling
 
 ## What is computational modelling?
 
@@ -43,8 +43,8 @@ A problem level could be imagined in biology through an evolutionary perspective
 
 Finally, this functional role opens up some arbitrariness in the interpretation of the results. Different scientists can try to solve different problems instead of focusing on the data at hand. Moreover, the comparison of models is conditioned on the modeller's goals, even if traditional criteria exist (Manson 2003). Those traditional criteria are:
 
-* Correctness: model structure and outcomes must be similar to those of the target system.
-* Consistency: the model must be internally consistent and match the conceptual framework in order to describe the target system.
+* Correctness or Correspondance: model structure and outcomes must be similar to those of the target system.
+* Consistency or Coherence: the model must be internally consistent and match the conceptual framework in order to describe the target system.
 * Universality: the model should apply to circumstances beyond those described by the calibration data.
 * Novelty: a model should create new knowledge or outcomes.
 * Simplicity: when choosing between two models, all other things being equal, the less complicated model is preferable (which is also relevant for checking the consistency of the model since it makes it more interpretable by the user)
