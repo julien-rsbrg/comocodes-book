@@ -16,7 +16,7 @@ Many philosophers and scientists align with that perspective. The most prominent
 
 In essence, computational modelling displays the same advantage while going further. Because a part of the logic of the models it creates will be automatically checked by the computer, computational modelling basically helps the scientist do the maths or the reasoning for them. Additionally, the process for using computational modelling is quite simple. We can summarize it as trying to recreate an experiment in silico.
 
-Now computational modelling and simulation has a more holistic advantage in science by achieving four functional roles (see Drogoul et al. 2008):
+Computational modelling has the advantage of expliciting the assumptions of the scientist behind. On other hand, computational simulation has a more holistic advantage in science by achieving four functional roles (see Drogoul et al. 2008):
 - checking the internal coherence of a theory (ie doing the maths and raising absurdities);
 - help expand models and theories by comparing them (like for thought experiments);
 - substitute experimentation when one cannot carry experiment because it is unfeasible or unethical;
