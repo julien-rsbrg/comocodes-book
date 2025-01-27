@@ -1,0 +1,30 @@
+{
+  "name": "gitbook-plugin-bibtex-indexed-cite",
+  "description": "Bibtex citations for GitBook",
+  "author": "Manuel Mitasch, Duane Johnson, Basil Vetas",
+  "main": "index.js",
+  "version": "1.2.0",
+  "engines": {
+    "gitbook": ">2.x.x"
+  },
+  "gitbook": {
+    "properties": {
+      "path": {
+          "type": "string",
+          "description": "the url path of the gitbook",
+          "required": true
+      }
+    }
+  },
+  "homepage": "https://github.com/WorldAfterCapital/gitbook-plugin-bibtex-cite",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WorldAfterCapital/gitbook-plugin-bibtex-cite"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bibtex-parser-js": "0.0.2",
+    "lodash": "^4.0.0"
+  },
+  "scripts": {}
+}
