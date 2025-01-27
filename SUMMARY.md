@@ -6,4 +6,4 @@
 
 ## Chapters
 
-* [Week 1: Introduction to Computational Modelling](chapters/week-1-introduction-to-computational-modelling.md)
+* [Introduction to Computational Modelling](chapters/week-1-introduction-to-computational-modelling.md)
